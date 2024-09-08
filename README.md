@@ -9,8 +9,7 @@ This project is aimed at building a **Coupon Recommendation System** that predic
 - [Dataset](#dataset)
 - [Usage](#usage)
 - [Modeling and Evaluation](#modeling-and-evaluation)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 In the world of digital marketing, personalized coupon recommendations are critical to increase user engagement and sales. This system predicts whether users will accept a coupon based on factors such as:
